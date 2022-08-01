@@ -18,8 +18,7 @@ Meu nome é Jhonatas Matheus, tenho 23 anos. 🇧🇷
 
 Graduando em Ciência e Tecnologia - UFERSA (Universidade Federal Rural do Semi-Árido).
 
-Sou fascinado por computação desde criança em 2017 passei a atuar de maneira profissional ná área da informática como técnico em manutenção de computadores e notebooks
-onde adiquiri várias técnicas e conhecimentos desde eletrônica aplicada a circuitos elétricos, placas eletrônicas reparo de placas, soldagem e microsoldagem de componentes eletrônicos e a partir de Agosto de 2021 passei a estudar programação e acabei me apaixonando pela área e hoje aspiro entrar no mercado e a cada dia mais aprender novas tecnologias e me tornar um profissional de qualidade.
+Sou fascinado por computação desde criança em 2017 passei a atuar de maneira profissional ná área da informática como técnico em manutenção de computadores e notebooks onde adiquiri várias técnicas e conhecimentos desde eletrônica aplicada a circuitos elétricos, placas eletrônicas reparo de placas, soldagem e microsoldagem de componentes eletrônicos e a partir de Agosto de 2021 passei a estudar programação e acabei me apaixonando pela área e hoje aspiro entrar no mercado e a cada dia mais aprender novas tecnologias e me tornar um profissional de qualidade.
 
 Fui militar durante 1 ano no Exército Brasileiro onde desenvolvi bastante como cívil e tive muito contato com um sistema hierarquizado.
 ```
