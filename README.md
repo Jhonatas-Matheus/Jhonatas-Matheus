@@ -49,6 +49,7 @@ Fui militar durante 1 ano no Exército Brasileiro onde desenvolvi bastante como 
 
 
 <!-- React --> <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"></a>
+<!-- TailwindCSS --> <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/TAILWIND-2CA5E0?style=for-the-badge&logo=tailwindcss&logoColor=white"><img src="https://img.shields.io/badge/TAILWIND-2CA5E0?style=for-the-badge&logo=tailwindcss&logoColor=white" data-canonical-src="https://img.shields.io/badge/TAILWIND-2CA5E0?style=for-the-badge&logo=tailwindcss&logoColor=white" style="max-width: 100%;"></a> 
 <!-- VSCODE --> <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" data-canonical-src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="max-width: 100%;"></a>
 <div align="center">  
     <p><br>
